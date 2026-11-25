@@ -28,6 +28,8 @@ from  scam  import two_dimensional_xr as tw
 from load_scam_bamc import ncdatasets
 from   scam  import data_own as down
 
+
+xxxxxxxxxx
 #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # scam runs from bamc directory 
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
